@@ -15,9 +15,9 @@
   <p>- e-mail: j040vmr@gmail.com </p>
   
   <h2>knowledge</h2>
-  <p>- Java</p>
-  <p>- Html</p>
-  <p>- CSS</p>
+  <p>- Java intermediary</p>
+  <p>- Html intermediary</p>
+  <p>- CSS basic</p>
   
 </section>
 
