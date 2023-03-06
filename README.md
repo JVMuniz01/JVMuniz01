@@ -1,8 +1,8 @@
 ## WELCOME TO MY GITHUB!
 <div>
 <p><p></p> 
-  <a href="[https://instagram.com/ryanpereirax](https://www.instagram.com/joaovmuniz_r/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/ryanpereirax](https://www.linkedin.com/in/joao-victor-muniz-rocha-4163b7200/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/joaovmuniz_r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joao-victor-muniz-rocha-4163b7200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p> </div>
 
 <!--
