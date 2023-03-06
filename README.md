@@ -1,9 +1,13 @@
-## WELCOME TO MY GITHUB!
+## <h1>WELCOME TO MY GITHUB!</h1>
 <div>
 <p><p></p> 
   <a href="https://www.instagram.com/joaovmuniz_r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-victor-muniz-rocha-4163b7200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p> </div>
+
+
+<p>Hi, My name is João Victor Muniz Rocha. I'm student of Computer Scientist</p>
+
 
 <!--
 **JVMuniz01/JVMuniz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
