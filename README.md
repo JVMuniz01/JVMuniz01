@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/joao-victor-muniz-rocha-4163b7200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p> </div>
 
-
+<h2> About me</h2>
 <p>Hi, My name is João Victor Muniz Rocha. I'm student of Computer Scientist</p>
 
 
