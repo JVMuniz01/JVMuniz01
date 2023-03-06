@@ -6,18 +6,18 @@
 </p> </div>
 <section>
   <h2> About me</h2>
-  <p>Hi, My name is João Victor Muniz Rocha. I'm student of Computer Scientist</p>
-  <p>I'm from Recife-PE in Brazil
-  <p>I'm studying to become a web developer</p>
+  <p> -Hi, My name is João Victor Muniz Rocha. I'm student of Computer Scientist</p>
+  <p>- I'm from Recife-PE in Brazil
+  <p>- I'm studying to become a web developer</p>
   <p>- I study at Catholic University of Pernambuco | Computer science | 3th semester .🎓
   
   <h2>How to reach me:</h2>
-  <p>e-mail: j040vmr@gmail.com </p>
+  <p>- e-mail: j040vmr@gmail.com </p>
   
   <h2>knowledge</h2>
-  <p>Java</p>
-  <p>Html</p>
-  <p>CSS</p>
+  <p>- Java</p>
+  <p>- Html</p>
+  <p>- CSS</p>
   
 </section>
 
