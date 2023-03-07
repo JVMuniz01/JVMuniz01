@@ -9,7 +9,7 @@
   <p> -Hi, My name is João Victor Muniz Rocha. I'm student of Computer Scientist</p>
   <p>- I'm from Recife-PE in Brazil
   <p>- I'm studying to become a web developer</p>
-  <p>- I study at Catholic University of Pernambuco | Computer science | 3th semester .🎓
+  <p>- I study at Catholic University of Pernambuco | Computer science | 3rd semester .🎓
   
   <h2>How to reach me:</h2>
   <p>- e-mail: j040vmr@gmail.com </p>
