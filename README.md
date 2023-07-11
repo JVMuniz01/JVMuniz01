@@ -18,6 +18,7 @@
   <p>- Java intermediary</p>
   <p>- Html intermediary</p>
   <p>- CSS basic</p>
+  <p>- Javascript basic</p>
   
   
 </section>
