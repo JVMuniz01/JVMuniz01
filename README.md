@@ -7,18 +7,19 @@
 <section>
   <h2> About me</h2>
   <p> -Hi, My name is João Victor Muniz Rocha. I'm student of Computer Scientist</p>
+  <p>- Catholic University of Pernambuco | Computer science | 4rd semester .🎓
   <p>- I'm from Recife-PE in Brazil
-  <p>- I'm studying to become a web developer</p>
-  <p>- I study at Catholic University of Pernambuco | Computer science | 3rd semester .🎓
+  <p>- I'm studying to become a Full-Stack developer</p>
+  <p> A child who practiced all sports but was passionate about soccer grew up being competitive and carried that into video games. I grew up using computers (thanks to my older brother). In my teenage years, I decided that I would love to study and work with programming.</p>
   
   <h2>How to reach me:</h2>
   <p>- e-mail: j040vmr@gmail.com </p>
   
   <h2>knowledge</h2>
-  <p>- Java intermediary</p>
-  <p>- Html intermediary</p>
-  <p>- CSS basic</p>
-  <p>- Javascript basic</p>
+  <p>- Java is the language I practiced the most and I have a good understanding of it</p>
+  <p>- Knowledge about HTML elements</p>
+  <p>- CSS practiced a little CSS, understanding flexbox and grid</p>
+  <p>- Basic on Javascript </p>
   
   
 </section>
