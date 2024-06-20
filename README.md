@@ -18,8 +18,8 @@
   <h2>knowledge</h2>
   <p>- Java is the language I practiced the most and I have a good understanding of it</p>
   <p>- Knowledge about HTML elements</p>
-  <p>- CSS practiced a little CSS, understanding flexbox and grid</p>
-  <p>- Basic on Javascript </p>
+  <p>- Practiced a little CSS, understanding flexbox and grid</p>
+  <p>- Knowledge in C++ </p>
   
   
 </section>
