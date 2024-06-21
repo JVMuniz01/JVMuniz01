@@ -10,7 +10,7 @@
   <p>- Catholic University of Pernambuco | Computer science | 4rd semester .🎓
   <p>- I'm from Recife-PE in Brazil
   <p>- I'm studying to become a Full-Stack developer</p>
-  <p> A child who practiced all sports but was passionate about soccer grew up being competitive and carried that into video games. I grew up using computers (thanks to my older brother). In my teenage years, I decided that I would love to study and work with programming.</p>
+  <p> A kid who practiced all sports but was passionate about soccer grew up being competitive and carried that into video games. I grew up using computers (thanks to my older brother). In my teenage years, I decided that I would love to study and work with programming.</p>
   
   <h2>How to reach me:</h2>
   <p>- e-mail: j040vmr@gmail.com </p>
