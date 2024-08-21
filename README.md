@@ -6,7 +6,7 @@
 </p> </div>
 <section>
   <h2> About me</h2>
-  <p> -Hi, My name is João Victor Muniz Rocha. I'm student of Computer Scientist</p>
+  <p> -Hi, My name is João Victor. I'm student of Computer Scientist</p>
   <p>- Catholic University of Pernambuco | Computer science | 5rd semester .🎓
   <p>- I'm from Recife-PE in Brazil
   <p>- I'm studying to become a Full-Stack developer</p>
