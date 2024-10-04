@@ -1,1 +1,40 @@
-## <h1>WELCOME TO MY GITHUB!</h1><div><p><p></p><a href="https://www.instagram.com/joaovmuniz_r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/joao-victor-muniz-rocha-4163b7200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p> </div><section><h2> About me</h2><p> -Hi, My name is João Victor. I'm student of Computer Scientist</p><p>- Catholic University of Pernambuco | Computer science | 5rd semester .🎓<p>- I'm from Recife-PE in Brazil<p>- I'm studying to become a Back-end developer</p><h2>How to reach me:</h2><p>- e-mail: j040vmr@gmail.com </p><h2>knowledge</h2><p>- Java is the language I practiced the most and I have a good understanding of it</p><p>- Knowledge about HTML elements</p><p>- Practiced a little CSS, understanding flexbox and grid</p><p>- Knowledge in C++ </p></section>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is João Vcitor Muniz and I'm a back-end developer, fullstack enthusiast, from Brasil</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Java and it's frameworks<br>🎯 Goals: Introduce myself to the market, start programming professionally and learn good practices
+<br>🎲 Fun fact: Player of all types of FPS, I play football and take tennis lessons</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="javascript logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
