@@ -11,7 +11,7 @@
 ###
 
 <p align="left">✨ Learning algorithms since 2001<br>📚 I'm currently studying Java's frameworks, databases, and investing in the back-end area, it interests me a lot and I feel like it's my path <br>🎯 Goals: Introduce myself to the market, start programming professionally and learn good practices
-<br>🎲 Fun fact: Player of all types of FPS, I play football, take tennis lessons. I have 2 cats and my favorite movie is Inception by Nolan</p>
+<br>🎲 </p>
 
 ###
 
