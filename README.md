@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is João Vcitor Muniz and I'm studying to become a back-end developer.<br>I'm from Brasil and a fullstack enthusiast.</p>
+<p align="left">My name is João Victor Muniz and I'm studying to become a back-end developer.<br>I'm from Brasil and a fullstack enthusiast.</p>
 
 ###
 
